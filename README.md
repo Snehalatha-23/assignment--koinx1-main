@@ -112,4 +112,4 @@ This project is created as part of an assignment for KoinX.
 
 ---
 
-Built with ❤️ by Ankit Pankaj
+Built with gitub snehalatha
